@@ -17,12 +17,12 @@ The project uses **Linear Regression**, a supervised learning algorithm that mod
 
 ## Tools and Technologies
 
-- **Python** — programming and data analysis
-- **Jupyter Notebook** — model development and experimentation
-- **Pandas** — data manipulation and analysis
-- **NumPy** — numerical computing
-- **Scikit-learn** — machine learning and model evaluation
-- **Matplotlib / Seaborn** — data visualization, where applicable
+- **Python**: programming and data analysis
+- **Jupyter Notebook**: model development and experimentation
+- **Pandas**: data manipulation and analysis
+- **NumPy**: numerical computing
+- **Scikit-learn**: machine learning and model evaluation
+- **Matplotlib / Seaborn**: data visualization, where applicable
 
 ## Project Files
 
